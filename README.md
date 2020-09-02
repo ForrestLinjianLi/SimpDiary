@@ -31,17 +31,17 @@ A project with seperated front end and back end based on SpringBoot and Vue.
 ### App Screenshots
 
 
-<img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39637.png" width="500"/>
+<img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39637.png" width="800"/>
 
 >login page
 
 
-<img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39638.png" width="500"/>
+<img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39638.png" width="800"/>
 
 >edit page
 
 
-<img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39639.png" width="500"/>
+<img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39639.png" width="800"/>
 
 >blogs page
 
