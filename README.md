@@ -22,4 +22,5 @@ A project with seperated front end and back end based on SpringBoot and Vue.
 | redis        | in-memory database for user session information |
 | jwt          | token for authentication purposes               |
 
+### App Screenshots
 
