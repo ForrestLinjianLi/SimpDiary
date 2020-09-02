@@ -2,6 +2,8 @@
 ### Introduction
 A project with seperated front end and back end based on SpringBoot and Vue. 
 
+---
+
 
 ### Front End Tech Stack
 
@@ -10,6 +12,8 @@ A project with seperated front end and back end based on SpringBoot and Vue.
 | Vue.js     | Front end framework       |
 | Element-ui | ui toolkit                |
 | axios      | promise based http client |
+
+---
 
 ### Back End Tech Stack
 
@@ -22,6 +26,8 @@ A project with seperated front end and back end based on SpringBoot and Vue.
 | redis        | in-memory database for user session information |
 | jwt          | token for authentication purposes               |
 
+---
+
 ### App Screenshots
 
 
@@ -29,13 +35,11 @@ A project with seperated front end and back end based on SpringBoot and Vue.
 
 >login page
 
----
 
 <img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39638.png" width="500"/>
 
 >edit page
 
----
 
 <img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39639.png" width="500"/>
 
