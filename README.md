@@ -1,11 +1,11 @@
 # SimpDiary 
-### Introduction
-A project with seperated front end and back end based on SpringBoot and Vue. 
+## Introduction
+This is a demo web APP for me learn Vue.js and SpringBoot. It allowes users to edit and release diaries and articles. It has seperated front end and back end.
 
 ---
 
 
-### Front End Tech Stack
+## Front End Tech Stack
 
 | name       | description               |
 |------------|---------------------------|
@@ -15,7 +15,7 @@ A project with seperated front end and back end based on SpringBoot and Vue.
 
 ---
 
-### Back End Tech Stack
+## Back End Tech Stack
 
 
 | name         | description                                     |
@@ -28,22 +28,16 @@ A project with seperated front end and back end based on SpringBoot and Vue.
 
 ---
 
-### App Screenshots
+## App Screenshots
 
-
+#### login page
 <img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39637.png" width="800"/>
 
->login page
-
-
+#### edit page
 <img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39638.png" width="800"/>
 
->edit page
-
-
+#### blogs page
 <img src="https://github.com/ForrestLinjianLi/SimpDiary/blob/master/Screenshots/WechatIMG39639.png" width="800"/>
-
->blogs page
 
 
 
